@@ -1,0 +1,2 @@
+Chat id
+sudo user id
